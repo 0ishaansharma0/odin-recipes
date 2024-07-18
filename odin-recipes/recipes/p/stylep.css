@@ -1,0 +1,63 @@
+h1,p {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Brush Script MT", 'Lucida Sans';
+    font-size: 100px;
+    color: rgb(9, 91, 28);
+
+}
+h2 {
+    font-family: cursive;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+p {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+#li {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+
+    
+}
+img {
+    height: auto;
+    width:300px;
+    
+}
+* {
+    background-color:  hsl(from rgb(141, 238, 203) h s l);
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+div.container{
+        
+    text-align: center;
+}
+
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+}
+
+ol.myOL{
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+}
+
+.a{
+    font-size: 30px;
+}
