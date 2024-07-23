@@ -57,3 +57,48 @@ ul.myUL{
     font-size: 30px;
     
 }
+
+
+div.forBOXb{
+    block-size: auto;
+    
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 10px 500px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 5px solid rgb(3, 3, 3);
+    
+}
+
+div.forBOXd{
+    block-size: auto;
+    
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 10px 565px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 5px solid rgb(3, 3, 3);
+    
+}
+
+div.forBOXp{
+    block-size: auto;
+    
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 10px 500px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 5px solid rgb(3, 3, 3);
+    
+}
+.forBOXp#pp{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:600px ;
+    margin-right: 600px;
+    
+    
+}
