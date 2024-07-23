@@ -1,12 +1,12 @@
 h1,p {
     text-align: center;
+    margin: 10px;
 }
 
 h1 {
     font-family: "Brush Script MT", 'Lucida Sans';
     font-size: 100px;
     color: blueviolet;
-
 }
 
 p {
@@ -43,3 +43,15 @@ ol.myOL{
     display: inline-block;
     text-align: left;
 }
+
+div.forBOX{
+    block-size: auto;
+    
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 10px 500px;
+    padding: 10px;
+    border: 5px solid violet;
+    
+}
+
